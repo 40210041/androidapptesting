@@ -3,4 +3,18 @@
     <string name="edit_msg">Enter a message</string>
     <string name="btn_msg">Send</string>
     <!--<string name="txt_msg"></string>-->
+    <string-array name="string_array">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+        <item>Option 6</item>
+        <item>Option 7</item>
+        <item>Option 8</item>
+        <item>Option 9</item>
+        <item>Option 10</item>
+    </string-array>
+
+
 </resources>
